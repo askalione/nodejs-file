@@ -1,0 +1,24 @@
+{
+  "name": "@askalione/nodejs-file",
+  "version": "1.0.0",
+  "description": "Helper for working with file path",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test-runner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/askalione/nodejs-file.git"
+  },
+  "keywords": [
+    "file",
+    "path",
+    "helper"
+  ],
+  "author": "Alexey Drapash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/askalione/nodejs-file/issues"
+  },
+  "homepage": "https://github.com/askalione/nodejs-file#readme"
+}
