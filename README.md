@@ -1,6 +1,6 @@
-# File
+# Nodejs-File
 
-File is a simple utility for working with file path.
+Nodejs-File is a simple utility for working with file path.
 
 ## Usage
 
