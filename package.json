@@ -1,5 +1,5 @@
 {
-  "name": "@askalione/nodejs-file",
+  "name": "@askalione/file",
   "version": "1.0.0",
   "description": "Simple utility for working with file path",
   "main": "index.js",
