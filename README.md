@@ -21,7 +21,7 @@ var name = file.getNameWithoutExtension(path); // return "file"
 
 Get file info:
 ```javascript
-var name = file.getInfo(path); // return { name: "file", extension: ".js"}
+var info = file.getInfo(path); // return { name: "file", extension: ".js"}
 ```
 
 ## License

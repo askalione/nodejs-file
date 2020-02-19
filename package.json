@@ -1,7 +1,7 @@
 {
   "name": "@askalione/nodejs-file",
   "version": "1.0.0",
-  "description": "Helper for working with file path",
+  "description": "Simple utility for working with file path",
   "main": "index.js",
   "scripts": {
     "test": "node test/test-runner.js"
