@@ -11,17 +11,17 @@ const path = 'C:\\alexey\\dev\\file.js';
 
 Get file name:
 ```javascript
-var name = file.getName(path); // return "file.js"
+let name = file.getName(path); // return "file.js"
 ```
 
 Get file name without extension:
 ```javascript
-var name = file.getNameWithoutExtension(path); // return "file"
+let name = file.getNameWithoutExtension(path); // return "file"
 ```
 
 Get file info:
 ```javascript
-var info = file.getInfo(path); // return { name: "file", extension: ".js"}
+const info = file.getInfo(path); // return { name: "file", extension: ".js"}
 ```
 
 ## License
